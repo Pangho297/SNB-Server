@@ -2,7 +2,7 @@
 
 <img src="https://songnumberbook.ga/static/media/snb_logo.3845d09d.png" height="100px" />
 
-### [SongNumberBook](https://songnumberbook.ga)
+### [SongNumberBook](https://songnumberbook.shop)
 
 ### [Client Repository](https://github.com/Pangho297/SNB-client)
 
